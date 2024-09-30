@@ -1,0 +1,5 @@
+irisdosreis\Main.class
+irisdosreis\util\HibernateUtil.class
+irisdosreis\model\User.class
+irisdosreis\servlet\HelloWorldTestServlet.class
+irisdosreis\servlet\UserServlet.class
